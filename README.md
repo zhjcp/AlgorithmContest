@@ -1,2 +1,2 @@
-# AlgorithmContest-
+# AlgorithmContest
 Algorithm contest 
